@@ -4,20 +4,18 @@
 - Download from: https://www.wireshark.org/download.html
 - Install with default settings (enable npcap if prompted — it’s needed for capturing packets).
 
-  ## 🖥 Step 2: Start Capturing Traffic
+## 🖥 Step 2: Start Capturing Traffic
   - Open Wireshark.
   - Select your active network interface (e.g., Wi-Fi, Ethernet).
   - Click the blue shark fin icon (Start Capture).
  
-  ## 🖥 Step 3: Generate Network Activity
+ ## 🖥 Step 3: Generate Network Activity
   While Wireshark is capturing:
   - Open a browser and visit some websites (e.g., example.com, google.com).
   - Optionally, ping a server: ping google.com
 
-
- ## 🖥 Step 4: Stop the Capture
+## 🖥 Step 4: Stop the Capture
  - After about 1 minute, click the red square (Stop Capture).
-
 
 ## 🖥 Step 5: Filter by Protocol
 In the top filter bar, try:
